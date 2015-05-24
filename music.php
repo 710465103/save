@@ -1,0 +1,1 @@
+<?php readfile( "./music/" . rand(1,3) . ".mp3" ); ?>
